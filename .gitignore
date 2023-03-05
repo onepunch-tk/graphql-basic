@@ -1,5 +1,6 @@
 node_modules
 .idea/
+dist/
 
 # Created by https://www.toptal.com/developers/gitignore/api/webstorm+all,visualstudio,visualstudiocode,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=webstorm+all,visualstudio,visualstudiocode,macos,windows
